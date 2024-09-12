@@ -57,7 +57,7 @@ This project implements a distributed file storage system with blockchain-based 
 
 1. **Uploading a File**:
    - Click on the "Upload" button in either web interface.
-   - Select the file you want to upload.
+   - Enter the name of the file you want to upload. The file should exist in the same folder with the client.py file. 
    - The file will be encrypted, sharded, and distributed across the storage providers.
 
 2. **Downloading a File**:
