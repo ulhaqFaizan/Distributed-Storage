@@ -1,0 +1,13 @@
+Flask==2.0.1
+requests==2.26.0
+numpy==1.21.2
+cryptography==3.4.8
+socket==3.7
+threading==3.7
+hashlib==3.7
+json==2.0.9
+time==3.7
+sys==3.7
+os==3.7
+datetime==4.3
+struct==3.7
