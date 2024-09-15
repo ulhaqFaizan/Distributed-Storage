@@ -27,8 +27,8 @@ This project implements a distributed file storage system with blockchain-based 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/distributed-file-storage.git
-   cd distributed-file-storage
+   git clone https://github.com/ulhaqFaizan/Distributed-Storage.git
+   cd Distributed-Storage
    ```
 
 2. Install the required dependencies:
